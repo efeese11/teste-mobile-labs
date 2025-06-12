@@ -51,7 +51,7 @@ npm start
 ## 📤 Entrega
 
 - Suba seu código em um repositório público (GitHub ou similar).
-- Envie o link para avaliação técnica.
+- Envie o link para avaliação técnica (vídeo demo).
 - Prazo sugerido: até **48 horas** após o recebimento.
 
 ## 👨‍💻 Boa sorte!
